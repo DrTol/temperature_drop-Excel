@@ -27,7 +27,7 @@ In memory of my father Bekir Tol..
 We would like to acknowledge all of the open-source minds in general for their willing of share (as apps or comments/answers in forums), which has encouraged our department to publish our tools developed.
 
 ## How2Cite:
-1. Tol, Hİ. temperature_drop-Excel. DOI: XXX. GitHub Repository 2018; https://github.com/DrTol/temperature_drop-Excel
+1. Tol, Hİ. temperature_drop-Excel. DOI: 10.5281/zenodo.2550093. GitHub Repository 2018; https://github.com/DrTol/temperature_drop-Excel
 
 ## References
 - Cengel, YA. Heat transfer: A practical approach (2. ed)
