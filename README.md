@@ -1,2 +1,2 @@
-# temperature_drop-VBA_Excel
-Calculates the temperature drop through the single insulated steel pipe, buried (Steady-State).
+# Temperature Drop through Insulated Single Pipe, Buried (Steady State)
+This VBA function/Excel tool calculates the temperature drop through a pre-insulated buried single pipe (steady-state). 
