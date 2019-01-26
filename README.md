@@ -14,7 +14,7 @@ An example Excel file is given: [TemperatureDrop_Buried&InsulatedPipeV02_r02.xls
 These functions are based on other VBA functions: 
 a) [XSteam](https://github.com/DrTol/temperature_drop-Excel/blob/master/XSteam) for the water properties, 
 b) [f_Clamond](https://github.com/DrTol/temperature_drop-Excel/blob/master/f_Clamond) to return the Darcy friction factor,
-c) [zOthers](https://github.com/DrTol/temperature_drop-Excel/blob/master/zOthers) involves of VB functions to calculate pi number and reynolds number
+c) [zOthers](https://github.com/DrTol/temperature_drop-Excel/blob/master/zOthers) involves of VB functions to calculate pi number and Reynolds number
 
 If you are new to Visual Basic (Excel), please follow the instructions in [Copy a macro module to another workbook](https://support.office.com/en-us/article/copy-a-macro-module-to-another-workbook-13c0938b-8432-4259-9177-a71f7e626de0) OR simply make use of the example Excel file [TemperatureDrop_Buried&InsulatedPipeV02_r02.xlsm](https://github.com/DrTol/temperature_drop-Excel/blob/master/TemperatureDrop_Buried%26InsulatedPipeV02_r02.xlsm) to base on for your calculations. 
 
@@ -36,3 +36,4 @@ We would like to acknowledge all of the open-source minds in general for their w
 - Ankur, Heat transfer in buried liquid pipelines, Available at: https://www.cheresources.com/invision/blog/4/entry-493-heat-transfer-in-buried-liquid-pipelines/
 - Breizh, insulated pipe buried V1.xlsx, Available at: https://www.cheresources.com/invision/index.php?app=core&module=attach&section=attach&attach_id=12301
 - Kusuda T, 1981. Heat transfer analysis of underground heat and chilled-water distribution systems. Report No: NBSIR 81-2378, US Department of Commerce, Washington DC.
+- Subramanian RS, Heat transfer in flow through conduits, Clarkson University. 
