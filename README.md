@@ -22,7 +22,7 @@ If you are new to Visual Basic (Excel), please follow the instructions in [Copy 
 You are free to use, modify and distribute the code as long as the authorship is properly acknowledged. The same applies for the original works 'XSteam' by Holmgren M and 'f_Clamond' by Clamond, D. 
 
 ## Acknowledgement 
-In memory of my father Bekir Tol..
+In memory of my father Bekir Tol.
 
 We would like to acknowledge all of the open-source minds in general for their willing of share (as apps or comments/answers in forums), which has encouraged our department to publish our tools developed.
 
