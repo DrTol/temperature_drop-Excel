@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F01JB1KE)
+
 # Temperature Drop through Insulated Pipe (Steady State)
 This VBA function/Excel tool calculates the temperature drop through a pre-insulated buried single steel pipe (steady-state). 
 
